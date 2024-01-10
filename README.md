@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm [Juan Paladea], a passionate developer interested in building amazing things with code.
+I'm Juan Paladea, a passionate developer interested in building amazing things with code.
 
 ## About Me
 
