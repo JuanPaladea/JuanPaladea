@@ -5,8 +5,8 @@ I'm Juan Paladea, a passionate developer interested in building amazing things w
 ## About Me
 
 - 🌐 Portfolio: [En proceso]
-- 📧 Email: [juanpaladea5@gmail.com]
-- 📚 Currently learning: [NextJS]
+- 📧 Email: juanpaladea5@gmail.com
+- 📚 Currently learning: NextJS
 
 ## Projects
 
