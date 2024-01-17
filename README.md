@@ -17,6 +17,13 @@ Libelulis is an e-commerce platform that offers various features, including user
 - [Libelulis Repository](https://github.com/JuanPaladea/e-commerce-project)
 - [Live Demo](https://libelulis.vercel.app/)
 
+### IMIPP - Landing Page for a Research Institute
+
+IMIPP is a landing page for a research institute built using React Vite. It serves as a central hub for the institute, showcasing information about ongoing research, seminars, and providing a contact and subscribe form for users.
+
+- [IMIPP Repository](https://github.com/JuanPaladea/imipp)
+- [Live Demo](https://imipp.vercel.app/)
+
 ## Technologies
 
 I enjoy working with a variety of technologies, including:
