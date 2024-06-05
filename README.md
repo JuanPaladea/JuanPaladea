@@ -1,12 +1,11 @@
 # Hi there! 👋
 
-I'm Juan Paladea, a passionate developer interested in building amazing things with code.
+I'm Juan Paladea, a developer interested in building and learning with code.
 
 ## About Me
 
-- 🌐 Portfolio: [En proceso]
+- 🌐 Portfolio: [In process]
 - 📧 Email: juanpaladea5@gmail.com
-- 📚 Currently learning: NextJS
 
 ## Projects
 
@@ -17,6 +16,10 @@ Libelulis is an e-commerce platform that offers various features, including user
 - [Libelulis Repository](https://github.com/JuanPaladea/e-commerce-project)
 - [Live Demo](https://libelulis.vercel.app/)
 
+#### Technologies used in this project:
+- React Vite for FrontEnd
+- Firebase for Backend
+
 ### IMIPP - Landing Page for a Research Institute
 
 IMIPP is a landing page for a research institute built using React Vite. It serves as a central hub for the institute, showcasing information about ongoing research, seminars, and providing a contact and subscribe form for users.
@@ -24,19 +27,20 @@ IMIPP is a landing page for a research institute built using React Vite. It serv
 - [IMIPP Repository](https://github.com/JuanPaladea/imipp)
 - [Live Demo](https://imipp.vercel.app/)
 
+#### Technologies used in this project:
+- React Vite for FrontEnd
+- Firebase for Backend
+
 ## Technologies
 
-I enjoy working with a variety of technologies, including:
+I work with a variety of technologies, including:
 
 - Frontend: React Vite
-- Database: Firebase
+- Backend: NodeJS, Express
+- Database: Firebase, MongoDB, FileSystem
 - Other: HTML, CSS, JavaScript, Tailwind CSS, Bootstrap
 
 ## Connect with Me
 
 - [GitHub](https://github.com/JuanPaladea)
 - [LinkedIn](https://www.linkedin.com/in/juan-francisco-paladea-5703b0191/)
-
-## Open to Collaboration
-
-I'm always open to collaborating on interesting projects. Feel free to reach out if you have something exciting in mind!
