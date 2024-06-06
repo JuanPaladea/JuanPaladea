@@ -37,7 +37,7 @@ I work with a variety of technologies, including:
 
 - Frontend: React Vite
 - Backend: NodeJS, Express
-- Database: Firebase, MongoDB, FileSystem
+- Database: Firebase, MongoDB
 - Other: HTML, CSS, JavaScript, Tailwind CSS, Bootstrap
 
 ## Connect with Me
