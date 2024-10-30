@@ -1,8 +1,8 @@
 # Hi there! 👋
 
-I'm Juan Paladea, a developer interested in building and learning with code.
-
 ## About Me
+
+I'm Juan Paladea, a developer interested in building and learning with code. 
 
 - 🌐 Portfolio: [In process]
 - 📧 Email: juanpaladea5@gmail.com
@@ -35,10 +35,9 @@ IMIPP is a landing page for a research institute built using React Vite. It serv
 
 I work with a variety of technologies, including:
 
-- Frontend: React Vite
-- Backend: NodeJS, Express
-- Database: Firebase, MongoDB
-- Other: HTML, CSS, JavaScript, Tailwind CSS, Bootstrap
+- Frontend: React Vite, HTML, CSS, Tailwind CSS
+- Backend: NodeJS, Express, Flask
+- Database: MongoDB, Firebase, MySQL, PostreSQL
 
 ## Connect with Me
 
