@@ -10,9 +10,12 @@ I'm **Juan Paladea**, a developer interested in building and learning with code.
 ## 🛠️ Skills
 
 ### Languages
-![typescript](https://img.shields.io/badge/Typescript-0000ff?style=for-the-badge&logo=TypeScript&logoColor=white)
+![Typescript](https://img.shields.io/badge/Typescript-0000ff?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Back-End Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -31,6 +34,7 @@ I'm **Juan Paladea**, a developer interested in building and learning with code.
 
 ### Testing
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
 
 ### Backend as a Service (BaaS)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -52,6 +56,7 @@ Backend application that uses Node.js, Express, and MongoDB. The application pro
   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+  ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
   ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 ### [Movie Reservation System Backend](https://github.com/JuanPaladea/MovieReservationBack)
@@ -67,6 +72,19 @@ Backend application that uses Node.js, Express, and Vercel's Postgre SQL Databas
   ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
   ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
+### [Movie Reservation System Front](https://github.com/JuanPaladea/MovieReservationFront)
+
+React Vite application. The application provides a platform for managing movies, showtimes, reservations and seats. It also includes user authentication and authorization.
+
+- **Live Demo**: [Vercel](https://movie-reservation-front.vercel.app/)
+- **Technologies**:
+  
+  ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
+  ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+  ![Typescript](https://img.shields.io/badge/Typescript-0000ff?style=for-the-badge&logo=TypeScript&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+
 ### [IMIPP - Research Institute Landing Page](https://github.com/JuanPaladea/imipp)
 
 A landing page designed for a research institute, serving as a hub for showcasing ongoing research and events, with contact and subscription forms for user engagement.
@@ -78,8 +96,6 @@ A landing page designed for a research institute, serving as a hub for showcasin
   ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
   
 ---
