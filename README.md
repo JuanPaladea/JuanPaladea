@@ -45,23 +45,24 @@ I'm **Juan Paladea**, a developer interested in building and learning with code.
 
 ## 📂 Projects
 
-### [E-Commerce Backend](https://github.com/JuanPaladea/Backend-Practice)
+### [E-Commerce Backend](https://github.com/JuanPaladea/ecommerce-nodejs)
 
-Backend application that uses Node.js, Express, and MongoDB. The application provides a platform for managing products, shopping carts, messages, and tickets. It also includes user authentication and authorization.
+Robust backend for an e-commerce platform using Node.js, TypeScript, and Express. Implemented key features such as user authentication and authorization, with secure JWT-based sessions. Integrated MongoDB to manage data models for cart, orders, products, and users, with seamless interaction through RESTful API endpoints. Ensured the system's reliability with automated tests using Jest, and provided comprehensive API documentation with Swagger. The architecture follows best practices, with a clear separation of concerns including services, controllers, routes and middlewares. Integrated logging using Winston for tracking system activity, and utilized dotenv for secure environment management.
 
-- **Live Demo**: [Backend on Render](https://backend-practice-ml8a.onrender.com/api-docs/)
+- **Live Demo**: [Backend on Render](https://ecommerce-nodejs-o555.onrender.com/docs/)
 - **Technologies**:
-  
+
+  ![Typescript](https://img.shields.io/badge/Typescript-0000ff?style=for-the-badge&logo=TypeScript&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-  ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
   ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 ### [Movie Reservation System Backend](https://github.com/JuanPaladea/MovieReservationBack)
 
-Backend application that uses Node.js, Express, and Vercel's Postgre SQL Database. The application provides a platform for managing movies, showtimes, reservations and seats. It also includes user authentication and authorization.
+Backend for a movie reservation system using Node.js, Express, and PostgreSQL, hosted on Vercel. The application enables movie, seat, showtime, and reservation management, with secure user authentication and role-based authorization using JWT. Implemented RESTful API endpoints, integrated PostgreSQL for data persistence, and ensured API reliability through unit testing with Jest. The project includes detailed API documentation and follows a modular architecture with clear separation of concerns, leveraging best practices in software development.
+
 
 - **Live Demo**: [Backend on Render](https://moviereservation.onrender.com/)
 - **Technologies**:
@@ -87,7 +88,7 @@ React Vite application. The application provides a platform for managing movies,
 
 ### [IMIPP - Research Institute Landing Page](https://github.com/JuanPaladea/imipp)
 
-A landing page designed for a research institute, serving as a hub for showcasing ongoing research and events, with contact and subscription forms for user engagement.
+Responsive and dynamic landing page for a research institute using React, Vite, and Tailwind CSS, deployed on Vercel. The application fetches data from a backend built with Firestore/Firebase and follows best practices in frontend development. The page features a modular architecture with separate components and pages, managed using React Router DOM for smooth navigation. Additionally, it includes a contact form integrated with EmailJS, enabling seamless communication. The design is modern and mobile-friendly, ensuring a user-centric experience across devices.
 
 - **Live Demo**: [IMIPP on Vercel](https://imipp.vercel.app/)
 - **Technologies**:
