@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm **Juan Paladea**, a developer interested in building and learning with code. 
+I'm **Juan Paladea**, I am a software developer focused on backend development. I have experience in building RESTful APIs and services using Node.js and Express.js. I am also familiar with databases like MongoDB and MySQL. I am looking for opportunities to work on exciting projects and learn new technologies. 
 
 - 🌐 Portfolio: [www.juanpaladea.com.ar](http://juanpaladea.com.ar/)
 - 📧 Email: juanpaladea5@gmail.com
