@@ -45,6 +45,20 @@ I'm **Juan Paladea**, I am a software developer focused on backend development. 
 
 ## 📂 Projects
 
+### [Hospital Backend](https://github.com/JuanPaladea/hospital-backend)
+
+Developed a robust backend for a comprehensive healthcare management system using Node.js, TypeScript, and Express. The system securely handles sensitive data related to patients, studies, and billing through well-designed RESTful API endpoints. Key features include secure user authentication with JWT-based sessions stored as HTTP‑only cookies, file uploads for study results and payment proofs using Multer. The architecture follows industry best practices with a clear separation of concerns among controllers, services, routes, and middleware, and utilizes PostgreSQL as the primary database.
+
+- **Live Demo**: [Backend on Render](https://hospital-backend-kapu.onrender.com/docs/)
+- **Technologies**:
+
+  ![Typescript](https://img.shields.io/badge/Typescript-0000ff?style=for-the-badge&logo=TypeScript&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+  
+
 ### [E-Commerce Backend](https://github.com/JuanPaladea/ecommerce-nodejs)
 
 Robust backend for an e-commerce platform using Node.js, TypeScript, and Express. Implemented key features such as user authentication and authorization, with secure JWT-based sessions. Integrated MongoDB to manage data models for cart, orders, products, and users, with seamless interaction through RESTful API endpoints. Ensured the system's reliability with automated tests using Jest, and provided comprehensive API documentation with Swagger. The architecture follows best practices, with a clear separation of concerns including services, controllers, routes and middlewares. Integrated logging using Winston for tracking system activity, and utilized dotenv for secure environment management.
@@ -59,32 +73,17 @@ Robust backend for an e-commerce platform using Node.js, TypeScript, and Express
   ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
   ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
-### [Movie Reservation System Backend](https://github.com/JuanPaladea/MovieReservationBack)
+### [Hospital Fronentd](https://github.com/JuanPaladea/hospital-frontend)
 
-Backend for a movie reservation system using Node.js, Express, and PostgreSQL, hosted on Vercel. The application enables movie, seat, showtime, and reservation management, with secure user authentication and role-based authorization using JWT. Implemented RESTful API endpoints, integrated PostgreSQL for data persistence, and ensured API reliability through unit testing with Jest. The project includes detailed API documentation and follows a modular architecture with clear separation of concerns, leveraging best practices in software development.
+Built a modern, responsive frontend for the healthcare management system using React and Vite. The interface provides dynamic dashboards, interactive lists, and intuitive forms for managing patient records, studies, and billing information. It seamlessly integrates with the secure backend API to support user authentication, data retrieval, and file upload functionalities. Advanced features include search, filtering, and pagination, along with a mobile-first design using Tailwind CSS to ensure accessibility and performance. Custom hooks such as debouncing improve responsiveness, and the overall component-based architecture ensures scalability and maintainability.
 
-
-- **Live Demo**: [Backend on Render](https://moviereservation.onrender.com/)
-- **Technologies**:
-  
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-  ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-
-### [Movie Reservation System Front](https://github.com/JuanPaladea/MovieReservationFront)
-
-React Vite application. The application provides a platform for managing movies, showtimes, reservations and seats. It also includes user authentication and authorization.
-
-- **Live Demo**: [Vercel](https://movie-reservation-front.vercel.app/)
+- **Live Demo**: [Hospital on Vercel](https://hospital-frontend-fawn.vercel.app/)
 - **Technologies**:
   
   ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
   ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
   ![Typescript](https://img.shields.io/badge/Typescript-0000ff?style=for-the-badge&logo=TypeScript&logoColor=white)
   ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
 
 ### [IMIPP - Research Institute Landing Page](https://github.com/JuanPaladea/imipp)
 
