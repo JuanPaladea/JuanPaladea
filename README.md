@@ -73,7 +73,7 @@ Robust backend for an e-commerce platform using Node.js, TypeScript, and Express
   ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
   ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
-### [Hospital Fronentd](https://github.com/JuanPaladea/hospital-frontend)
+### [Hospital Frontend](https://github.com/JuanPaladea/hospital-frontend)
 
 Built a modern, responsive frontend for the healthcare management system using React and Vite. The interface provides dynamic dashboards, interactive lists, and intuitive forms for managing patient records, studies, and billing information. It seamlessly integrates with the secure backend API to support user authentication, data retrieval, and file upload functionalities. Advanced features include search, filtering, and pagination, along with a mobile-first design using Tailwind CSS to ensure accessibility and performance. Custom hooks such as debouncing improve responsiveness, and the overall component-based architecture ensures scalability and maintainability.
 
