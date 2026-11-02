@@ -1,14 +1,15 @@
-# Hi there! 👋 Welcome to My GitHub!
+# Juan Paladea
 
-## 🚀 About Me
+Full-stack developer: APIs, automation and AI agents, with a focus on the backend. I came to software from a hospital, so I model clinical and operational work from the inside.
 
-I'm **Juan Paladea**, I am a software developer focused on backend development. I have experience in building RESTful APIs and services using Node.js and Express.js. I am also familiar with databases like MongoDB and MySQL. I am looking for opportunities to work on exciting projects and learn new technologies. 
+Desarrollador full-stack: APIs, automatizaciones y agentes de IA, con foco en backend. Llegué al software desde un hospital, y por eso modelo flujos clínicos y operativos desde adentro.
 
-- 🌐 Portfolio: [www.juanpaladea.com.ar](http://juanpaladea.com.ar/)
-- 📧 Email: juanpaladea5@gmail.com
+## Projects · Proyectos
 
-## 🔗 Connect with Me
+- **[Vialo](https://vialolab.com/)**: management platform for research laboratories, born from my role as staff at IMIPP. Plataforma de gestión para laboratorios de investigación, nacida de mi función como personal del IMIPP.
+- **[Libelulis](https://libelulis.com.ar/)**: online store and management panel for handmade marbled accessories. Tienda online y panel de gestión para accesorios marmolados hechos a mano.
+- **[En una nota · Ensalada mixta](https://enunanota.com.ar/)**: a party game for singing with friends, with a ranking verified in Postgres. Juego para cantar con amigos, con un ranking verificado en Postgres. [Code · Código](https://github.com/JuanPaladea/en-una-nota-ensalada-mixta)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuanPaladea)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-francisco-paladea-5703b0191/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanpaladea5@gmail.com)
+## Links
+
+[juanpaladea.com.ar](https://juanpaladea.com.ar/) · [LinkedIn](https://www.linkedin.com/in/juan-francisco-paladea-5703b0191/) · [juanpaladea5@gmail.com](mailto:juanpaladea5@gmail.com)
